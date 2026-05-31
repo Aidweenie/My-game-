@@ -16,7 +16,7 @@ A terrifying 3D first-person horror game where you must escape through the dark 
 - Red glowing eyes that track your movement
 
 🏃 **Intense Gameplay**
-- Sprint mechanic (SPACE) with limited stamina
+- Sprint mechanic with limited stamina
 - Monster proximity warning system
 - Smooth first-person camera controls
 - Realistic physics
@@ -26,31 +26,41 @@ A terrifying 3D first-person horror game where you must escape through the dark 
 - Avoid being caught by the monster
 - Manage your stamina wisely
 
-## 🕹️ Controls
+## 📱 Mobile & Desktop Play
 
-| Key | Action |
-|-----|--------|
-| **WASD** | Move around |
-| **SPACE** | Sprint (uses stamina) |
-| **Mouse** | Look around |
-| **Click** | Lock/unlock mouse |
-| **ESC** | Release mouse lock |
+### 🎮 How to Play
+
+**Option 1: Play Online (EASIEST)**
+1. Go to: https://Aidweenie.github.io/My-game-/
+2. Click to start playing immediately!
+
+*Note: If that link doesn't work yet, enable GitHub Pages in your repo settings*
+
+**Option 2: Local File**
+1. Download the repository (or clone it)
+2. Open `index.html` directly in your browser
+3. The game will load instantly!
+
+### 🕹️ Controls
+
+**Desktop:**
+- **WASD** - Move around
+- **Mouse** - Look around
+- **SPACE** - Sprint (uses stamina)
+- **Click Mouse** - Lock/unlock mouse
+- **ESC** - Release mouse lock
+
+**Mobile:**
+- **Left Joystick** - Move forward/backward/strafe
+- **Right Joystick** - Look around
+- **SPRINT Button** - Tap and hold to run
 
 ## 📊 UI Elements
 
 - **Stamina Bar** (top left) - Your sprint energy
-- **Monster Proximity Meter** (top right) - How close the monster is
+- **Monster Proximity Meter** (top right) - How close the monster is (red = DANGER!)
 - **Yellow Gate** (ahead) - Your escape route
-
-## 🚀 How to Play
-
-1. Open `index.html` in your web browser
-2. Click to lock your mouse and start the game
-3. Use WASD to move and mouse to look around
-4. Sprint with SPACE when you need to escape quickly (watch your stamina!)
-5. Navigate through the forest toward the yellow gate
-6. If the monster catches you, you lose!
-7. Reach the gate to escape and win!
+- **Crosshair** (center) - For aiming
 
 ## 💻 Technical Details
 
